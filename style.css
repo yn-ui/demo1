@@ -1,3 +1,4 @@
+
 *,
 *:before,
 *:after {
@@ -40,7 +41,7 @@ a {
 }
 
 .main-visual {
-  background-image: url(../img/main-bg.jpg);
+  background-image: url(https://user-images.githubusercontent.com/72715705/115321742-6cbbbb00-a1bf-11eb-936d-d7197564b7e4.jpg);
   height: 500px;
   width: 100%;
   background-position: center center;
@@ -134,7 +135,7 @@ a {
 
 .contact {
   padding: 100px 0;
-  background-image: url(../img/contact-bg.jpg);
+  background-image: url(https://user-images.githubusercontent.com/72715705/115321732-67f70700-a1bf-11eb-8247-90700cb1b66c.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 500px;
